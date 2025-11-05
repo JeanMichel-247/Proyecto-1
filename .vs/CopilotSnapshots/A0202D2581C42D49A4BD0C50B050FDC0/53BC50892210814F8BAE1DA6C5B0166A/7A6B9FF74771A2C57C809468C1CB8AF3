@@ -1,3 +1,6 @@
+﻿using System;
+using System.Windows.Forms;
+
 namespace FeriaOnline
 {
     public partial class Form1 : Form
