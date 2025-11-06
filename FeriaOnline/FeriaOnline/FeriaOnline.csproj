@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net9.0-windows\FeriaOnline.deps.json" />
+    <Content Include="bin\Debug\net9.0-windows\FeriaOnline.runtimeconfig.json" />
+    <Content Include="bin\Debug\usuarios.txt" />
+    <Content Include="obj\Debug\net9.0-windows\FeriaOnline.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net9.0-windows\FeriaOnline.designer.deps.json" />
+    <Content Include="obj\Debug\net9.0-windows\FeriaOnline.designer.runtimeconfig.json" />
+    <Content Include="obj\Debug\net9.0-windows\FeriaOnline.sourcelink.json" />
+    <Content Include="obj\FeriaOnline.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net9.0-windows\FeriaOnline.dll" />
+    <None Include="bin\Debug\net9.0-windows\FeriaOnline.exe" />
+    <None Include="bin\Debug\net9.0-windows\FeriaOnline.pdb" />
+    <None Include="obj\Debug\net9.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.assets.cache" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.dll" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.Form1.resources" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net9.0-windows\FeriaOnline.pdb" />
+    <None Include="obj\Debug\net9.0-windows\refint\FeriaOnline.dll" />
+    <None Include="obj\Debug\net9.0-windows\ref\FeriaOnline.dll" />
+    <None Include="obj\FeriaOnline.csproj.nuget.g.props" />
+    <None Include="obj\FeriaOnline.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net9.0-windows\FeriaOnline.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net9.0-windows\FeriaOnline.assets.cache" />
+    <None Include="obj\Release\net9.0-windows\FeriaOnline.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Release\net9.0-windows\" />
+    <Folder Include="obj\Release\net9.0-windows\refint\" />
+    <Folder Include="obj\Release\net9.0-windows\ref\" />
+  </ItemGroup>
+
+</Project>

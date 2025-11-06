@@ -1,0 +1,17 @@
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.Form1.resources
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.csproj.GenerateResource.cache
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.AssemblyInfoInputs.cache
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.AssemblyInfo.cs
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.sourcelink.json
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\bin\Debug\net9.0-windows\FeriaOnline.exe
+C:\Users\Jean\source\repos\Proyecto-1\FeriaOnline\FeriaOnline\bin\Debug\net9.0-windows\FeriaOnline.deps.json
+C:\Users\Jean\source\repos\Proyecto-1\FeriaOnline\FeriaOnline\bin\Debug\net9.0-windows\FeriaOnline.runtimeconfig.json
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\bin\Debug\net9.0-windows\FeriaOnline.dll
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\bin\Debug\net9.0-windows\FeriaOnline.pdb
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.dll
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\refint\FeriaOnline.dll
+C:\Users\Jean\Source\Repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.pdb
+C:\Users\Jean\source\repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\FeriaOnline.genruntimeconfig.cache
+C:\Users\Jean\source\repos\Proyecto-1\FeriaOnline\FeriaOnline\obj\Debug\net9.0-windows\ref\FeriaOnline.dll
